@@ -1,14 +1,23 @@
 # geoHungary
 ## GeoJSON files for the different administrative divisions of Hungary
 
-0. Hungary outline
-1. Statistical large regions - NUTS 1 - Országrészek
-2. Planning and statistical regions - NUTS 2 - Régiók
-3. **Counties + capital of Hungary - NUTS 3 - Megyék és főváros**
-4. Districts of Hungary - LAU 1 - Kerületek, járások
-5. All populated places of Hungary - LAU 2
-6. **Postal codes - Postai irányítószám körzetek**
+0. National Boundary of Hungary
+1. NUTS 1 – Major Regions (Országrészek)
+2. NUTS 2 – Planning and Statistical Regions (Régiók)
+**3. NUTS 3 – Counties and the Capital (Megyék és Budapest)**
+4. Districts (Járások) and Budapest Districts (Kerületek) – historical LAU 1
+**5. Municipalities / Settlements (Települések) – historical LAU 2**
+**6. Postal Code Areas (Postai irányítószám körzetek)**
 
 I want to catch'em all.
 
 If you can share any of the missing geoJSON maps then just create a pull request and I will merge with the others. Thanks!
+
+## Acknowledgements
+
+The Hungarian settlements GeoJSON dataset used in this project is based on work by **czinkos**.
+
+Original source:
+- https://gist.github.com/czinkos/bedb669ca606627780483e1949ad4bb4
+
+The dataset is automatically synchronized from the original source to ensure it stays up to date.
