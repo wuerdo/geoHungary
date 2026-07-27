@@ -26,7 +26,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add hungary_settlements.geojson
+          git add settlements.geojson
 
           if ! git diff --cached --quiet; then
             git commit -m "Sync LAU settlements GeoJSON"
