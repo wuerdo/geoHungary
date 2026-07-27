@@ -4,10 +4,10 @@
 0. National Boundary of Hungary (Országhatár)
 1. NUTS 1 – Major Regions (Országrészek)
 2. NUTS 2 – Planning and Statistical Regions (Régiók)
-3. **NUTS 3 – Counties and the Capital (Megyék és Budapest)**
+3. **NUTS 3 – Counties and the Capital (Megyék és Budapest)** - counties.geojson
 4. Districts (Járások) and Budapest Districts (Kerületek) – historical LAU 1
-5. **Municipalities / Settlements (Települések) – historical LAU 2**
-6. **Postal Code Areas (Postai irányítószám körzetek)**
+5. **Municipalities / Settlements (Települések) – historical LAU 2** - settlements.geojson
+6. **Postal Code Areas (Postai irányítószám körzetek)** - postal_codes.geojson
 
 I want to catch'em all.
 
